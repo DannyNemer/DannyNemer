@@ -1,1 +1,1 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DannyNemer)](https://git.io/streak-stats)
+<img width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=DannyNemer">
